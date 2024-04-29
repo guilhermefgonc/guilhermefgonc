@@ -1,23 +1,23 @@
-# Olá! Eu sou o Guilherme Gonçalves 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=4500&lines=Welcome+to+my+profile!+👋;+My+name+is+Guilherme+Gonçalves!;" />
+</h1>
 
-### Sou estudante de Sistemas de Informação pela Unesp, gosto de programar e aprender cada vez mais!
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guifgon/?original_referer=)
+<h3 align="center">I am a DevOps and Cloud Computing Learner!</h3>
 
 <br/>
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermefgonc&show_icons=true&theme=dracula)
+<div align="center">
+ 
+ 🎯 Recently, I achieved the **AWS Cloud Practitioner Certification**
+ 
+ 📘 Currently, I'm sharpening my **AWS and DevOps skills** through hands-on projects
 
-<br/>
+ 💡 My skill set includes **Docker, Kubernetes, Python, Bash scripting and Cloud Computing**
 
-# Tecnologias
+ </div>
 
-<div style="display: inline_block"><br/>
- <img align="center" alt="Linguagem C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
- <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
- <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
- <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
- <img align="center" alt="Docker" src="https://img.shields.io/badge/kubernetes-2496ED?style=for-the-badge&logo=kubernetes&logoColor=white">
-</div><br/>
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/guifgon" >
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
