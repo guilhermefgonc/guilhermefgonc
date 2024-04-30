@@ -34,14 +34,5 @@
 
 <hr/>
 
-<hr/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermefgonc&show_icons=true&theme=transparent)
 
-<div style="display: flex; justify-content: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
-  </a>
-</div>
