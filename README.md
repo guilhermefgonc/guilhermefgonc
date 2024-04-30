@@ -21,3 +21,17 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Tools and Technologies ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=python,linux,bash,c" /><br>
+</div>
+
+<br/>
+<hr/>
+ 
