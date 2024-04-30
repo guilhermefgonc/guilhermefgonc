@@ -34,5 +34,12 @@
 
 <hr/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermefgonc&show_icons=true&theme=transparent)
-
+<h2 align="center">⚡ Stats ⚡</h2>
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermefgonc&show_icons=true&theme=transparent&rank_icon=github" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermefgonc&layout=compact&theme=transparent&langs_count=8&card_width=320&size_weight=0.5" />
+    </a>
+</div>
