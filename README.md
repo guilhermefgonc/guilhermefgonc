@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=4500&lines=Welcome+to+my+profile!+👋;+My+name+is+Guilherme+Gonçalves!;" />
 </h1>
 
-<h3 align="center">I am a DevOps and Cloud Computing Learner!</h3>
+<h3 align="center">I am an SRE, DevOps and Cloud Computing Learner!</h3>
 
 <br/>
 
@@ -10,7 +10,7 @@
  
  🎯 Recently, I achieved the **AWS Cloud Practitioner Certification**
  
- 📘 Currently, I'm sharpening my **AWS and DevOps skills** through hands-on projects
+ 📘 Currently, I'm Working at **Cielo as an SRE Intern**
 
  💡 My skill set includes **Docker, Kubernetes, Python, Bash scripting and Cloud Computing**
 
