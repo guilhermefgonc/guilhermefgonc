@@ -10,7 +10,7 @@
  
  🎯 Recently, I achieved the **AWS Cloud Practitioner Certification**
  
- 📘 Currently, I'm Working at **Cielo as an SRE Intern**
+ 📘 Currently, I'm Working at **Magalu Cloud as an SRE **
 
  💡 My skill set includes **Docker, Kubernetes, Python, Bash scripting and Cloud Computing**
 
